@@ -2,3 +2,4 @@
 
 > [!NOTE] 
 > Project completed during the learning process. User: Kompocik1
+> who also contributed to the code
